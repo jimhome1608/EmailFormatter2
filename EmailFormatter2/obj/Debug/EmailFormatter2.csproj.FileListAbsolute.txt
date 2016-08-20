@@ -1,0 +1,11 @@
+c:\users\jim\documents\visual studio 2015\Projects\EmailFormatter2\EmailFormatter2\bin\Debug\EmailFormatter2.exe.config
+c:\users\jim\documents\visual studio 2015\Projects\EmailFormatter2\EmailFormatter2\bin\Debug\EmailFormatter2.exe
+c:\users\jim\documents\visual studio 2015\Projects\EmailFormatter2\EmailFormatter2\bin\Debug\EmailFormatter2.pdb
+c:\users\jim\documents\visual studio 2015\Projects\EmailFormatter2\EmailFormatter2\obj\Debug\EmailFormatter2.Form1.resources
+c:\users\jim\documents\visual studio 2015\Projects\EmailFormatter2\EmailFormatter2\obj\Debug\EmailFormatter2.Properties.Resources.resources
+c:\users\jim\documents\visual studio 2015\Projects\EmailFormatter2\EmailFormatter2\obj\Debug\EmailFormatter2.csproj.GenerateResource.Cache
+c:\users\jim\documents\visual studio 2015\Projects\EmailFormatter2\EmailFormatter2\obj\Debug\EmailFormatter2.exe
+c:\users\jim\documents\visual studio 2015\Projects\EmailFormatter2\EmailFormatter2\obj\Debug\EmailFormatter2.pdb
+C:\Users\jim\documents\visual studio 2015\Projects\EmailFormatter2\EmailFormatter2\bin\Debug\System.Net.Http.dll
+C:\Users\jim\documents\visual studio 2015\Projects\EmailFormatter2\EmailFormatter2\bin\Debug\System.Net.Http.xml
+C:\Users\jim\documents\visual studio 2015\Projects\EmailFormatter2\EmailFormatter2\obj\Debug\EmailFormatter2.csprojResolveAssemblyReference.cache
