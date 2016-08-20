@@ -94,17 +94,18 @@
             // llGoToOriginalMessage
             // 
             this.llGoToOriginalMessage.Dock = System.Windows.Forms.DockStyle.Left;
-            this.llGoToOriginalMessage.Font = new System.Drawing.Font("Calibri", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.llGoToOriginalMessage.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.llGoToOriginalMessage.ImageList = this.imageList1;
-            this.llGoToOriginalMessage.LinkArea = new System.Windows.Forms.LinkArea(0, 35);
+            this.llGoToOriginalMessage.Font = new System.Drawing.Font("Calibri", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.llGoToOriginalMessage.Image = ((System.Drawing.Image)(resources.GetObject("llGoToOriginalMessage.Image")));
+            this.llGoToOriginalMessage.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.llGoToOriginalMessage.LinkArea = new System.Windows.Forms.LinkArea(6, 35);
             this.llGoToOriginalMessage.Location = new System.Drawing.Point(0, 0);
             this.llGoToOriginalMessage.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.llGoToOriginalMessage.Name = "llGoToOriginalMessage";
+            this.llGoToOriginalMessage.Padding = new System.Windows.Forms.Padding(5, 5, 0, 0);
             this.llGoToOriginalMessage.Size = new System.Drawing.Size(323, 48);
             this.llGoToOriginalMessage.TabIndex = 10;
             this.llGoToOriginalMessage.TabStop = true;
-            this.llGoToOriginalMessage.Text = "Go back to original  message ";
+            this.llGoToOriginalMessage.Text = "      Go back to Original Message ";
             this.llGoToOriginalMessage.UseCompatibleTextRendering = true;
             this.llGoToOriginalMessage.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.llGoToOriginalMessage_LinkClicked);
             // 
@@ -117,6 +118,7 @@
             this.imageList1.Images.SetKeyName(2, "CheckedDocNot2.png");
             this.imageList1.Images.SetKeyName(3, "CheckedDocNot3.png");
             this.imageList1.Images.SetKeyName(4, "CheckedDoc10.png");
+            this.imageList1.Images.SetKeyName(5, "GoArrow.png");
             // 
             // panel4
             // 
@@ -223,17 +225,18 @@
             // llGoToFormattedMessage
             // 
             this.llGoToFormattedMessage.Dock = System.Windows.Forms.DockStyle.Left;
-            this.llGoToFormattedMessage.Font = new System.Drawing.Font("Calibri", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.llGoToFormattedMessage.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.llGoToFormattedMessage.ImageList = this.imageList1;
-            this.llGoToFormattedMessage.LinkArea = new System.Windows.Forms.LinkArea(0, 35);
+            this.llGoToFormattedMessage.Font = new System.Drawing.Font("Calibri", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.llGoToFormattedMessage.Image = ((System.Drawing.Image)(resources.GetObject("llGoToFormattedMessage.Image")));
+            this.llGoToFormattedMessage.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.llGoToFormattedMessage.LinkArea = new System.Windows.Forms.LinkArea(6, 35);
             this.llGoToFormattedMessage.Location = new System.Drawing.Point(0, 0);
             this.llGoToFormattedMessage.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.llGoToFormattedMessage.Name = "llGoToFormattedMessage";
+            this.llGoToFormattedMessage.Padding = new System.Windows.Forms.Padding(5, 5, 0, 0);
             this.llGoToFormattedMessage.Size = new System.Drawing.Size(351, 48);
             this.llGoToFormattedMessage.TabIndex = 8;
             this.llGoToFormattedMessage.TabStop = true;
-            this.llGoToFormattedMessage.Text = "Clean and Reformat this  message ";
+            this.llGoToFormattedMessage.Text = "      Clean and Reformat this  message ";
             this.llGoToFormattedMessage.UseCompatibleTextRendering = true;
             this.llGoToFormattedMessage.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.llGoToFormattedMessageClicked);
             // 
